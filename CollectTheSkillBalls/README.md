@@ -9,7 +9,10 @@
 
 Proyek ini merupakan implementasi dari Tugas Masa Depan Individu untuk mata kuliah Desain dan Pemrograman Berorientasi Objek, yang didesain menggunakan arsitektur **MVVM (Model-View-ViewModel)** dan dikelola menggunakan **Maven**.
 
-![Gameplay Screenshot](https://via.placeholder.com/800x450.png?text=Screenshot+Gameplay+Anda+Disini)
+[Gameplay Screenshot]
+![Image](https://github.com/user-attachments/assets/ca235d74-abcc-4be4-a529-3526f6e04911)
+
+![Image](https://github.com/user-attachments/assets/a45f5f23-df18-4768-bf9f-dc8714898f15)
 
 ## Daftar Isi
 - [Fitur Utama](#fitur-utama)
