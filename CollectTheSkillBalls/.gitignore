@@ -1,0 +1,14 @@
+# IntelliJ
+.idea/
+*.iml
+out/
+
+# Compiled files
+*.class
+
+# Database (exclude template)
+*.db
+!resources/database/skillballs.db
+
+# OS files
+.DS_Store
